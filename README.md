@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://cdn.discordapp.com/attachments/1464959829461172479/1466233168003727411/grok_video_2026-01-28-19-41-36.gif?ex=697bff8c&is=697aae0c&hm=0dddaeaaef5c72a4621fc7d4bc0c6dc487b0178644e74b562e28399b43833108&)
+![Banner](https://cdn.discordapp.com/attachments/1482630585510793270/1482962231330344991/1Lenovo_20260315_234201_0000.png?ex=69b8dbb4&is=69b78a34&hm=4e8c79f3791b2e195e7b6a3f4098dfe9acfe2b8aa2ab33b7a883e7b71c0d5ead&)
 
-# 👋 ¡Hola! Soy 1Lenovo (Carrillo)
+# 👋 ¡Hola! Soy Xarri (Carrillo)
 
 ### 💻 Desarrollador Full Stack | Apasionado por la tecnología
 
@@ -50,8 +50,8 @@ Desarrollador con experiencia en desarrollo web, bots de Discord y desarrollo de
 
 ¿Tienes algún proyecto en mente o quieres colaborar? ¡No dudes en contactarme!
 
-- 💬 **Discord:** 1Lenovo
-- 📧 **Gmail:** joseguadalupe1401@gmail.com
+- 💬 **Discord:** Xarri
+- 📧 **Gmail:** xarri.contact@gmail.com
 
 ---
 
